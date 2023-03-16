@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\DelegateEvents\bin\Debug\net6.0\DelegateEvents.exe
+C:\Users\jacob\source\repos\DelegateEvents\bin\Debug\net6.0\DelegateEvents.deps.json
+C:\Users\jacob\source\repos\DelegateEvents\bin\Debug\net6.0\DelegateEvents.runtimeconfig.json
+C:\Users\jacob\source\repos\DelegateEvents\bin\Debug\net6.0\DelegateEvents.dll
+C:\Users\jacob\source\repos\DelegateEvents\bin\Debug\net6.0\DelegateEvents.pdb
+C:\Users\jacob\source\repos\DelegateEvents\obj\Debug\net6.0\DelegateEvents.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\DelegateEvents\obj\Debug\net6.0\DelegateEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\DelegateEvents\obj\Debug\net6.0\DelegateEvents.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\DelegateEvents\obj\Debug\net6.0\DelegateEvents.AssemblyInfo.cs
+C:\Users\jacob\source\repos\DelegateEvents\obj\Debug\net6.0\DelegateEvents.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\DelegateEvents\obj\Debug\net6.0\DelegateEvents.dll
+C:\Users\jacob\source\repos\DelegateEvents\obj\Debug\net6.0\refint\DelegateEvents.dll
+C:\Users\jacob\source\repos\DelegateEvents\obj\Debug\net6.0\DelegateEvents.pdb
+C:\Users\jacob\source\repos\DelegateEvents\obj\Debug\net6.0\DelegateEvents.genruntimeconfig.cache
+C:\Users\jacob\source\repos\DelegateEvents\obj\Debug\net6.0\ref\DelegateEvents.dll
